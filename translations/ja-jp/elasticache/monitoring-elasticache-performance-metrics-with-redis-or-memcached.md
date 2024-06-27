@@ -358,4 +358,4 @@ memcachedはマルチスレッドなので、CPU使用率の閾値を90％に設
 
 > [Part 2 of this series](https://www.datadoghq.com/blog/collecting-elasticache-metrics-its-redis-memcached-metrics) provides instructions for collecting all the metrics you need to monitor ElastiCache.
 
-このシリーズの[Part 2](https://www.datadoghq.com/blog/collecting-elasticache-metrics-its-redis-memcached-metrics)では、ElastiCacheを監視すのに必要な全てのメトリックを収集する手順を解説していきます。
+このシリーズの[Part 2](https://www.datadoghq.com/blog/collecting-elasticache-metrics-its-redis-memcached-metrics)では、ElastiCacheを監視するのに必要な全てのメトリックを収集する手順を解説していきます。
